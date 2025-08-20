@@ -17,6 +17,8 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)
 
 
+I hope this works! Then i will be happy to have made my first edit in GitHub!
+
 NumPy is the fundamental package for scientific computing with Python.
 
 - **Website:** https://numpy.org
